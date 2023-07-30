@@ -1,0 +1,3 @@
+telethon
+json
+python-dotenv
