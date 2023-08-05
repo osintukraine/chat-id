@@ -8,6 +8,6 @@ interactive python script to find the channel name and channel link from a teleg
 - source bin/activate
 - pip3 install -r requirements.txt
 - python3 chatid.py
-- paste the telegram chat ID you want to get the Link
+- paste the telegram chat ID ie: -1001638301761 you want to get the Link
 
 the result is a json object with the information of the channel. 
